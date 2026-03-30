@@ -4,7 +4,9 @@
   "description": "Local app for visual backup of SmugMug galleries",
   "main": "src/index.js",
   "scripts": {
+    "predev": "node scripts/ensure-deps.js",
     "dev": "node src/index.js",
+    "prestart": "node scripts/ensure-deps.js",
     "start": "node src/index.js",
     "test": "node test/utils.test.js"
   },

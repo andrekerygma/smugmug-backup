@@ -47,6 +47,8 @@ Or:
 npm start
 ```
 
+If you downloaded the project as a ZIP from GitHub, `node_modules/` is not included. Run `npm install` once inside the project folder before using `npm run dev` or `npm start`.
+
 Then open:
 
 ```text
