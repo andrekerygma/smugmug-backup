@@ -1,0 +1,9 @@
+node_modules/
+backup-output/
+.claude/
+_reference/
+data/*
+!data/README.md
+!data/albums/
+data/albums/*
+!data/albums/.gitkeep
