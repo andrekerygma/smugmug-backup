@@ -2,6 +2,10 @@
 
 Local app with a visual interface for backing up a SmugMug library to your computer, preserving gallery folder structure and showing live progress.
 
+## Preview
+
+![SmugMug Backup app preview](docs/app-preview.svg)
+
 ## What It Does
 
 - Discovers galleries from the authenticated account through the official SmugMug API.
